@@ -17,9 +17,9 @@ Microsoft Defender · Microsoft Intune · Microsoft Azure AD · BitLocker · GoP
 
 ## 📌 Projects
 
-🎣 Phishing Simulation using GoPhish — Configured simulated phishing campaigns and analyzed results to identify security risks.
-🌐 Network Traffic Analysis using Wireshark — Captured and analyzed live network traffic across DNS, TCP, HTTP, ICMP, TLS, ARP, and DHCP.
-🔍 Windows Authentication Investigation — Conducted a SOC-style L1 investigation on Windows Security Event logs, analyzing Event IDs 4624, 4625, 4648, and 4740 to identify failed logon patterns and assess risk.
+-🎣 Phishing Simulation using GoPhish — Configured simulated phishing campaigns and analyzed results to identify security risks.
+-🌐 Network Traffic Analysis using Wireshark — Captured and analyzed live network traffic across DNS, TCP, HTTP, ICMP, TLS, ARP, and DHCP.
+-🔍 Windows Authentication Investigation — Conducted a SOC-style L1 investigation on Windows Security Event logs, analyzing Event IDs 4624, 4625, 4648, and 4740 to identify failed logon patterns and assess risk.
 
 ## 📫 Connect
 
