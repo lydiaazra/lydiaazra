@@ -1,14 +1,26 @@
-<h1 align="center">Hi 👋, I'm Lydia Azra Binti Muhammad Nor</h1>
-<h3 align="center">🎓 Computer Science Graduate, Universiti Teknologi Malaysia</h3>
-<h3 align="center">💼 Actively seeking opportunities in IT / Tech</h3>
+# Hi, I'm Lydia Azra 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lydiaazra&label=Profile%20views&color=0e75b6&style=flat" alt="lydiaazra" /> <img src="https://img.shields.io/badge/status-open%20to%20work-brightgreen?style=flat" alt="open to work" /> </p>
+Computer Science graduate from Universiti Teknologi Malaysia (UTM), with hands-on IT security experience gained through an internship at Kenanga Investment Bank Berhad.
 
-- 📫 How to reach me **lydiaazra.career@gmail.com**
+## 🔐 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/lydia-azra-muhammad-nor-107632266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lydia-azra-muhammad-nor-107632266" height="30" width="40" /></a>
-</p>
+- 🎓 B.CS (Graphics & Multimedia Software), Honours — Universiti Teknologi Malaysia, 2023–2026
+- 🛡️ **IT Security Intern**, Kenanga Investment Bank Berhad (Sept 2025 – Feb 2026)
+- 🖥️ **IT Operations Support Intern**, CYSECA Solutions Sdn Bhd (Jan – May 2023) 
+- 📫 Reach me at **lydiaazra.career@gmail.com** or [LinkedIn](https://www.linkedin.com/in/lydiaazra/)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lydiaazra&show_icons=true&locale=en" alt="lydiaazra" /></p>
+## 🛠️ Tech 
+
+**Tools**
+
+Microsoft Defender · Microsoft Intune · Microsoft Azure AD · BitLocker · GoPhish · Wireshark · Autopsy · VirusTotal · Hybrid Analysis · Have I Been Pwned
+
+## 📌 Projects
+
+🎣 Phishing Simulation using GoPhish — Configured simulated phishing campaigns and analyzed results to identify security risks.
+🌐 Network Traffic Analysis using Wireshark — Captured and analyzed live network traffic across DNS, TCP, HTTP, ICMP, TLS, ARP, and DHCP.
+🔍 Windows Authentication Investigation — Conducted a SOC-style L1 investigation on Windows Security Event logs, analyzing Event IDs 4624, 4625, 4648, and 4740 to identify failed logon patterns and assess risk.
+
+## 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/lydiaazra/) · [GitHub](https://github.com/lydiaazra) · lydiaazra.career@gmail.com
