@@ -6,8 +6,7 @@ Computer Science graduate from Universiti Teknologi Malaysia (UTM), with hands-o
 
 - 🎓 B.CS (Graphics & Multimedia Software), Honours — Universiti Teknologi Malaysia, 2023–2026
 - 🛡️ **IT Security Intern**, Kenanga Investment Bank Berhad (Sept 2025 – Feb 2026)
-- 🖥️ **IT Operations Support Intern**, CYSECA Solutions Sdn Bhd (Jan – May 2023) 
-- 📫 Reach me at **lydiaazra.career@gmail.com** or [LinkedIn](https://www.linkedin.com/in/lydiaazra/)
+- 🖥️ **IT Operations Support Intern**, CYSECA Solutions Sdn Bhd (Jan 2023 – May 2023) 
 
 ## 🛠️ Tech 
 
